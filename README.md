@@ -1,1 +1,1 @@
-Abdallah Mekky is a Runner, Futsal Player, Freestyle Footballer, Developer, Designer and an Engineer based in Cairo, Egypt.
+Abdallah Mekky is a SWE who crafts elegant solutions with JavaScript, Go, Rust, and .NET. Passionate about building high-performance, scalable systems.
