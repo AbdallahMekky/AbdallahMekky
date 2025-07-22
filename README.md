@@ -1,1 +1,1 @@
-As a Frontend Engineer based in Cairo, Egypt, I specialize in React and Next.js, crafting accessible, high-performance, and pixel-perfect web applications. I focus on building scalable, user-centric interfaces that deliver exceptional digital experiences.
+Abdallah Mekky is a Frontend Engineer based in Cairo, Egypt, I specialize in React and Next.js, crafting accessible, high-performance, and pixel-perfect web applications. I focus on building scalable, user-centric interfaces that deliver exceptional digital experiences.
