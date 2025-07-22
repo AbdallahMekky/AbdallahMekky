@@ -1,1 +1,1 @@
-Abdallah Mékky is a runner, futsal player, freestyle footballer, developer, designer, and an engineer based in Cairo, Egypt.
+As a Frontend Engineer based in Cairo, Egypt, I specialize in React and Next.js, crafting accessible, high-performance, and pixel-perfect web applications. I focus on building scalable, user-centric interfaces that deliver exceptional digital experiences.
