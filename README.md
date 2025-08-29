@@ -1,1 +1,2 @@
-Abdallah Mekky is a runner, futsal Player, freestyle footballer, developer, designer and an engineer based in Cairo, Egypt.
+Abdallah Mekky is a runner, cyclist, code sleuth, and part-time alien.
+
