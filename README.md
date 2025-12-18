@@ -1,5 +1,5 @@
 # Who am I?
-Abdallah Mékky is a runner, futsal Player, freestyle footballer, developer, designer and an engineer based in Cairo, Egypt.
+Abdallah Mekky is a runner, futsal Player, freestyle footballer, developer, designer and an engineer based in Cairo, Egypt.
 
 # The Story
 After years of building digital experiences, I realized my real passion is helping people live stronger, healthier lives.
