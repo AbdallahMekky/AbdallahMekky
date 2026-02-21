@@ -1,1 +1,1 @@
-Abdallah Mekky is on a journey to become a Certified Personal Trainer, inspiring strength, fitness, joy, having fun and happiness.
+Abdallah Mekky is on a journey to become an AI Automation Expert based in Cairo, Egypt, specializing in AI Agents, AI Crews, and intelligent automation systems.
