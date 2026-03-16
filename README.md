@@ -1,1 +1,1 @@
-Abdallah Mekky is a runner, developer, and designer in Cairo, Egypt, now on a journey into CrossFit, Hyrox racing, and Agentic Web.
+Abdallah Mekky is a runner and developer in Cairo, Egypt, on a journey into CrossFit, Hyrox, Agentic Web, and AI Agent Orchestration.
