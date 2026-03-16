@@ -1,1 +1,1 @@
-Abdallah Mekky is on a journey to become a Certified Personal Trainer, inspiring strength, fitness, joy, having fun and happiness.
+Abdallah Mekky is a runner, developer, and designer in Cairo, Egypt, now on a journey into CrossFit, Hyrox racing, and Agentic Web.
