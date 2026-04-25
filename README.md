@@ -1,1 +1,1 @@
-Abdallah Mekky is a runner and developer in Cairo, Egypt, on a journey into CrossFit, HYROX, and AI Agent Orchestration.
+Abdallah Mekky is just an alien on Earth. Debugging bugs, exploring code, and waiting for the mothership.
