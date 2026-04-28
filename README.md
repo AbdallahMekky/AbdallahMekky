@@ -1,1 +1,1 @@
-Abdallah Mekky is just an alien on Earth. Debugging bugs, exploring code, and waiting for the mothership.
+Abdallah Mekky is a runner and freestyle footballer based in Cairo, Egypt.
