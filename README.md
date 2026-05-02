@@ -1,1 +1,1 @@
-Abdallah Mekky is a runner and developer in Cairo, Egypt, on a journey into AI Agent Orchestration, CrossFit, and HYROX.
+Abdallah Mekky is an Expert SEO Strategist in Egypt, dominating Google and AI search—like ChatGPT & Gemini—through strategic digital authority.
