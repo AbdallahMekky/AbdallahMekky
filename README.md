@@ -1,1 +1,1 @@
-Abdallah Mekky is a futsal player, freestyle footballer, and runner in Cairo, Egypt, rebuilding daily and mastering 7 languages—just because. 😄
+Abdallah Mekky is a runner, freestyle footballer based in Cairo.
