@@ -1,1 +1,1 @@
-Abdallah Mekky’s just an alien on earth, fixin' code and waitin' on a ride back to the mothership.
+Abdallah Mekky is a futsal player, freestyle footballer, and runner in Cairo, Egypt, rebuilding daily and mastering 7 languages—just because. 😄
