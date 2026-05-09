@@ -1,1 +1,1 @@
-Abdallah Mekky is a Search & AI Growth Strategist helping brands scale organic revenue through SEO, AI Search Optimization, and data-driven content strategy.
+Abdallah Mekky is a futsal player, freestyle footballer, and runner in Cairo, Egypt, rebuilding daily and mastering 7 languages—just because. 😄
