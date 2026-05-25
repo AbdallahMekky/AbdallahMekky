@@ -1,1 +1,1 @@
-Abdallah Mekky is an SEO & AI Search Optimization Specialist, based in Cairo, Egypt, helping brands improve organic visibility through technical SEO, AI-driven search optimization, and content strategies, built for modern search engines and LLM-powered discovery.
+Abdallah Mekky helps businesses rank #1 on Google and appear in AI-generated answers — through Technical SEO and AI Visibility strategies that actually move the needle.
