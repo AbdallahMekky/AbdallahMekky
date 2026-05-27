@@ -1,1 +1,2 @@
-Abdallah Mekky helps businesses rank #1 on Google and appear in AI-generated answers — through Technical SEO and AI Visibility strategies that actually move the needle.
+Abdallah Mekky is a Technical SEO & AI Visibility Expert based in Cairo, Egypt. Optimizing for generative search (GEO/AEO) since before it had a name, he combines decades of web engineering to help brands secure dominance across Google, LLMs, and AI Overviews. Turn search intent into revenue.
+
