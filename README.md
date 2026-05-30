@@ -1,1 +1,2 @@
-Abdallah Mekky is a Technical SEO & AI Search Expert based in Cairo, Egypt. He helps businesses dominate search by ensuring they appear at the top of Google, inside AI Overviews, and across generative answer engines via advanced GEO and AIO strategies.
+Abdallah Mekky is a Technical SEO Expert & AI Search Consultant based in Cairo, Egypt. He helps businesses secure visibility where it matters most — on Google's first page, inside AI Overviews, and across generative answer engines through advanced GEO and AIO strategies.
+
