@@ -61,10 +61,10 @@
 
 | Service Category | Direct Link & Execution Scope |
 | :--- | :--- |
-| **⚙️ Technical SEO** | [Technical SEO Services](https://www.abdallahmekky.com/services/technical-seo/) — Complete crawl, index, speed, and structured data audits, Core Web Vitals remediation, and JavaScript rendering optimization. |
-| **🤖 AI Search Visibility** | [AI Search Visibility](https://www.abdallahmekky.com/services/ai-search-visibility/) — GEO & AEO, LLM citation strategies, entity definition, and AI Overview targeting across search engines and generative platforms. |
-| **✍️ Content Strategy** | [Semantic Content Strategy](https://www.abdallahmekky.com/services/content-strategy/) — Topical authority mapping, content gap analysis, semantic keyword research, and E-E-A-T architecture. |
-| **🔍 Full SEO Audit** | [Full SEO Audit](https://www.abdallahmekky.com/services/seo-audit/) — Comprehensive deep-dive into technical health, content opportunities, and AI-visibility blind spots. |
+| **⚙️ Technical SEO** | [Technical SEO Services](https://www.abdallahmekky.com/#services) — Complete crawl, index, speed, and structured data audits, Core Web Vitals remediation, and JavaScript rendering optimization. |
+| **🤖 AI Search Visibility** | [AI Search Visibility](https://www.abdallahmekky.com/#services) — GEO & AEO, LLM citation strategies, entity definition, and AI Overview targeting across search engines and generative platforms. |
+| **✍️ Content Strategy** | [Semantic Content Strategy](https://www.abdallahmekky.com/#services) — Topical authority mapping, content gap analysis, semantic keyword research, and E-E-A-T architecture. |
+| **🔍 Full SEO Audit** | [Full SEO Audit](https://www.abdallahmekky.com/#services) — Comprehensive deep-dive into technical health, content opportunities, and AI-visibility blind spots. |
 
 ---
 
@@ -72,26 +72,26 @@
 
 | Industry Sector | Direct Target Link & Focus |
 | :--- | :--- |
-| **⚖️ Law Firms** | [Law Firms SEO](https://www.abdallahmekky.com/industries/law-firms/) — Specialized search authority for legal practices and attorney networks. |
-| **🏥 Healthcare** | [Healthcare SEO](https://www.abdallahmekky.com/industries/healthcare/) — HIPAA-compliant search visibility and medical authority optimization. |
-| **🏡 Real Estate** | [Real Estate SEO](https://www.abdallahmekky.com/industries/real-estate/) — Property platform technical scaling and localized geographic dominance. |
-| **💳 Finance & Fintech** | [Finance SEO](https://www.abdallahmekky.com/industries/finance/) — Secure, authoritative visibility for banking, trading, and fintech solutions. |
-| **🛒 E-Commerce** | [E-Commerce SEO](https://www.abdallahmekky.com/industries/e-commerce/) — Large-scale catalog indexing, faceted navigation, and Shopify/WordPress mastery. |
+| **⚖️ Law Firms** | [Law Firms SEO](https://www.abdallahmekky.com/#industries) — Specialized search authority for legal practices and attorney networks. |
+| **🏥 Healthcare** | [Healthcare SEO](https://www.abdallahmekky.com/#industries) — HIPAA-compliant search visibility and medical authority optimization. |
+| **🏡 Real Estate** | [Real Estate SEO](https://www.abdallahmekky.com/#industries) — Property platform technical scaling and localized geographic dominance. |
+| **💳 Finance & Fintech** | [Finance SEO](https://www.abdallahmekky.com/#industries) — Secure, authoritative visibility for banking, trading, and fintech solutions. |
+| **🛒 E-Commerce** | [E-Commerce SEO](https://www.abdallahmekky.com/#industries) — Large-scale catalog indexing, faceted navigation, and Shopify/WordPress mastery. |
 
 ---
 
 ### 🗺️ Target Countries & Global Markets
 
 <p align="center">
-  <a href="https://www.abdallahmekky.com/locations/egypt/"><img src="https://img.shields.io/badge/Egypt-Cairo_HQ-blue?style=flat-square&logo=google-maps&logoColor=white" /></a>
-  <a href="https://www.abdallahmekky.com/locations/saudi-arabia/"><img src="https://img.shields.io/badge/Saudi_Arabia-KSA-green?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/uae/"><img src="https://img.shields.io/badge/UAE-Dubai_%2F_Abu_Dhabi-orange?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/qatar/"><img src="https://img.shields.io/badge/Qatar-Doha-purple?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/kuwait/"><img src="https://img.shields.io/badge/Kuwait-KWT-yellow?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/bahrain/"><img src="https://img.shields.io/badge/Bahrain-BHR-red?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/oman/"><img src="https://img.shields.io/badge/Oman-OMN-blueviolet?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/locations/jordan/"><img src="https://img.shields.io/badge/Jordan-JOR-informational?style=flat-square" /></a>
-  <a href="https://www.abdallahmekky.com/contact/"><img src="https://img.shields.io/badge/International-Remote_Worldwide-lightgrey?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Egypt-Cairo_HQ-blue?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Saudi_Arabia-KSA-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/UAE-Dubai_%2F_Abu_Dhabi-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qatar-Doha-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kuwait-KWT-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bahrain-BHR-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Oman-OMN-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jordan-JOR-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/International-Remote_Worldwide-lightgrey?style=flat-square" />
 </p>
 
 ---
