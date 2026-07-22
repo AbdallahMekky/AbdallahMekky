@@ -4,21 +4,21 @@
 ### **AI Search & SEO Strategist | Technical Infrastructure & GEO Pioneer**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdallahMekky&color=00ffcc&style=for-the-badge&label=TOTAL+PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/📍_Base-Cairo%2C%20Egypt%20(Global%20Reach)-0f172a?style=for-the-badge&color=3b82f6" alt="Location" />
-  <img src="https://img.shields.io/badge/🌐_Online_Since-1999-0f172a?style=for-the-badge&color=10b981" alt="Online Since" />
-  <img src="https://img.shields.io/badge/🚀_Status-Elite_Consultancy_Active-0f172a?style=for-the-badge&color=f59e0b" alt="Status" />
+  <a href="https://www.abdallahmekky.com/"><img src="https://komarev.com/ghpvc/?username=AbdallahMekky&color=00ffcc&style=for-the-badge&label=TOTAL+PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://www.abdallahmekky.com/services/egypt"><img src="https://img.shields.io/badge/📍_Base-Cairo%2C%20Egypt%20(Global%20Reach)-0f172a?style=for-the-badge&color=3b82f6" alt="Location" /></a>
+  <a href="https://www.abdallahmekky.com/about/"><img src="https://img.shields.io/badge/🌐_Online_Since-1999-0f172a?style=for-the-badge&color=10b981" alt="Online Since" /></a>
+  <a href="https://www.abdallahmekky.com/contact/"><img src="https://img.shields.io/badge/🚀_Status-Elite_Consultancy_Active-0f172a?style=for-the-badge&color=f59e0b" alt="Status" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Technical_SEO-100%25_Mastery-blue?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/GEO-Generative_Engine-orange?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AEO-Answer_Engine-purple?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_Web_Vitals-Pristine-green?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Schema_Markup-Enterprise-yellow?style=flat-square&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Automation-blueviolet?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-Architecture-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Log_File-Analysis-red?style=flat-square&logo=linux&logoColor=white" />
+  <a href="https://www.abdallahmekky.com/services/technical-seo/"><img src="https://img.shields.io/badge/Technical_SEO-100%25_Mastery-blue?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/ai-search-visibility/"><img src="https://img.shields.io/badge/GEO-Generative_Engine-orange?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/ai-search-visibility/"><img src="https://img.shields.io/badge/AEO-Answer_Engine-purple?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/technical-seo/"><img src="https://img.shields.io/badge/Core_Web_Vitals-Pristine-green?style=flat-square&logo=googleanalytics&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/technical-seo/"><img src="https://img.shields.io/badge/Schema_Markup-Enterprise-yellow?style=flat-square&logo=json&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/"><img src="https://img.shields.io/badge/Python-Automation-blueviolet?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/"><img src="https://img.shields.io/badge/Cloudflare-Architecture-F38020?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/technical-seo/"><img src="https://img.shields.io/badge/Log_File-Analysis-red?style=flat-square&logo=linux&logoColor=white" /></a>
 </p>
 
 </div>
@@ -49,22 +49,22 @@
 ### 🛠️ Comprehensive Services Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Technical_SEO-Audits_%26_Rendering-blue?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Search_Visibility-GEO_%26_AEO-orange?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Content_Strategy-Topical_Authority-purple?style=flat-square&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full_SEO_Audit-Deep_Diagnostics-green?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local_SEO-Optimization-yellow?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/International_SEO-Multi_Region-red?style=flat-square&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress_SEO-Enterprise-blueviolet?style=flat-square&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify_SEO-Ecommerce-informational?style=flat-square&logo=shopify&logoColor=white" />
+  <a href="https://www.abdallahmekky.com/services/technical-seo/"><img src="https://img.shields.io/badge/Technical_SEO-Audits_%26_Rendering-blue?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/ai-search-visibility/"><img src="https://img.shields.io/badge/AI_Search_Visibility-GEO_%26_AEO-orange?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/content-strategy/"><img src="https://img.shields.io/badge/Content_Strategy-Topical_Authority-purple?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/full-seo-audit/"><img src="https://img.shields.io/badge/Full_SEO_Audit-Deep_Diagnostics-green?style=flat-square&logo=googleanalytics&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/local-seo/"><img src="https://img.shields.io/badge/Local_SEO-Optimization-yellow?style=flat-square&logo=google-maps&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/international-seo/"><img src="https://img.shields.io/badge/International_SEO-Multi_Region-red?style=flat-square&logo=googleearth&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/wordpress-seo/"><img src="https://img.shields.io/badge/WordPress_SEO-Enterprise-blueviolet?style=flat-square&logo=wordpress&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/shopify-seo/"><img src="https://img.shields.io/badge/Shopify_SEO-Ecommerce-informational?style=flat-square&logo=shopify&logoColor=white" /></a>
 </p>
 
 | Service Category | Direct Link & Execution Scope |
 | :--- | :--- |
-| **⚙️ Technical SEO** | [Technical SEO Services](https://www.abdallahmekky.com/#services) — Complete crawl, index, speed, and structured data audits, Core Web Vitals remediation, and JavaScript rendering optimization. |
-| **🤖 AI Search Visibility** | [AI Search Visibility](https://www.abdallahmekky.com/#services) — GEO & AEO, LLM citation strategies, entity definition, and AI Overview targeting across search engines and generative platforms. |
-| **✍️ Content Strategy** | [Semantic Content Strategy](https://www.abdallahmekky.com/#services) — Topical authority mapping, content gap analysis, semantic keyword research, and E-E-A-T architecture. |
-| **🔍 Full SEO Audit** | [Full SEO Audit](https://www.abdallahmekky.com/#services) — Comprehensive deep-dive into technical health, content opportunities, and AI-visibility blind spots. |
+| **⚙️ Technical SEO** | [Technical SEO Services](https://www.abdallahmekky.com/services/technical-seo/) — Complete crawl, index, speed, and structured data audits, Core Web Vitals remediation, and JavaScript rendering optimization. |
+| **🤖 AI Search Visibility** | [AI Search Visibility](https://www.abdallahmekky.com/services/ai-search-visibility/) — GEO & AEO, LLM citation strategies, entity definition, and AI Overview targeting across search engines and generative platforms. |
+| **✍️ Content Strategy** | [Semantic Content Strategy](https://www.abdallahmekky.com/services/content-strategy/) — Topical authority mapping, content gap analysis, semantic keyword research, and E-E-A-T architecture. |
+| **🔍 Full SEO Audit** | [Full SEO Audit](https://www.abdallahmekky.com/services/full-seo-audit/) — Comprehensive deep-dive into technical health, content opportunities, and AI-visibility blind spots. |
 
 ---
 
@@ -72,26 +72,26 @@
 
 | Industry Sector | Direct Target Link & Focus |
 | :--- | :--- |
-| **⚖️ Law Firms** | [Law Firms SEO](https://www.abdallahmekky.com/#industries) — Specialized search authority for legal practices and attorney networks. |
-| **🏥 Healthcare** | [Healthcare SEO](https://www.abdallahmekky.com/#industries) — HIPAA-compliant search visibility and medical authority optimization. |
-| **🏡 Real Estate** | [Real Estate SEO](https://www.abdallahmekky.com/#industries) — Property platform technical scaling and localized geographic dominance. |
-| **💳 Finance & Fintech** | [Finance SEO](https://www.abdallahmekky.com/#industries) — Secure, authoritative visibility for banking, trading, and fintech solutions. |
-| **🛒 E-Commerce** | [E-Commerce SEO](https://www.abdallahmekky.com/#industries) — Large-scale catalog indexing, faceted navigation, and Shopify/WordPress mastery. |
+| **⚖️ Law Firms** | [Law Firms SEO](https://www.abdallahmekky.com/services/law-firms-seo/) — Specialized search authority for legal practices and attorney networks. |
+| **🏥 Healthcare** | [Healthcare SEO](https://www.abdallahmekky.com/services/healthcare-seo/) — HIPAA-compliant search visibility and medical authority optimization. |
+| **🏡 Real Estate** | [Real Estate SEO](https://www.abdallahmekky.com/services/real-estate-seo/) — Property platform technical scaling and localized geographic dominance. |
+| **💳 Finance & Fintech** | [Finance SEO](https://www.abdallahmekky.com/services/finance-seo/) — Secure, authoritative visibility for banking, trading, and fintech solutions. |
+| **🛒 E-Commerce** | [E-Commerce SEO](https://www.abdallahmekky.com/services/ecommerce-seo/) — Large-scale catalog indexing, faceted navigation, and Shopify/WordPress mastery. |
 
 ---
 
 ### 🗺️ Target Countries & Global Markets
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Egypt-Cairo_HQ-blue?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saudi_Arabia-KSA-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/UAE-Dubai_%2F_Abu_Dhabi-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Qatar-Doha-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kuwait-KWT-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bahrain-BHR-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Oman-OMN-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jordan-JOR-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/International-Remote_Worldwide-lightgrey?style=flat-square" />
+  <a href="https://www.abdallahmekky.com/services/egypt"><img src="https://img.shields.io/badge/Egypt-Cairo_HQ-blue?style=flat-square&logo=google-maps&logoColor=white" /></a>
+  <a href="https://www.abdallahmekky.com/services/saudi-arabia"><img src="https://img.shields.io/badge/Saudi_Arabia-KSA-green?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/uae"><img src="https://img.shields.io/badge/UAE-Dubai_%2F_Abu_Dhabi-orange?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/qatar"><img src="https://img.shields.io/badge/Qatar-Doha-purple?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/kuwait"><img src="https://img.shields.io/badge/Kuwait-KWT-yellow?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/bahrain"><img src="https://img.shields.io/badge/Bahrain-BHR-red?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/oman"><img src="https://img.shields.io/badge/Oman-OMN-blueviolet?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/services/jordan"><img src="https://img.shields.io/badge/Jordan-JOR-informational?style=flat-square" /></a>
+  <a href="https://www.abdallahmekky.com/contact/"><img src="https://img.shields.io/badge/International-Remote_Worldwide-lightgrey?style=flat-square" /></a>
 </p>
 
 ---
