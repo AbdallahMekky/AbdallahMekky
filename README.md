@@ -1,1 +1,1 @@
-Abdallah Mekky is a creator of free SEO, GEO, and AEO tools, a passionate runner at abdallah.run, and a writer sharing life philosophy, growth, and coaching.
+Abdallah Mekky is a Linux enthusiast who loves the terminal and Vim, and is making it official on the Red Hat path: RHCSA first, then RHCE.
