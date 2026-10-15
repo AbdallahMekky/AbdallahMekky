@@ -1,1 +1,1 @@
-Abdallah Mekky explores systems, patterns and the hidden logic beneath digital surfaces—security, reverse engineering, and the strange architecture of how things really work.
+Abdallah Mekky's journey through futsal, running, and freestyle football — with a long-term dream to run across Egypt.
