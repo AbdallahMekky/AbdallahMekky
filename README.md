@@ -1,1 +1,1 @@
-Abdallah Mekky's journey through futsal, running, and freestyle football — with a long-term dream to run across Egypt.
+Abdallah Mekky is based in Egypt and documents his journey in running, HYROX, and CrossFit, with a dream of running across Egypt.
